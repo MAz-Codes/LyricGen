@@ -1,0 +1,69 @@
+[
+    {
+        "category": "Nature & Seasons",
+        "lyrics": [
+            "The leaves turn gold, a gentle sigh",
+            "Seasons shift beneath the sky",
+            "A fading dream on whispered breeze",
+            "Of summer sun and swaying trees",
+            "The world transforms, a silent call",
+            "Where autumn's touch embraces all"
+        ]
+    },
+    {
+        "category": "Nostalgia & Change",
+        "lyrics": [
+            "With every step, a memory wanes",
+            "A bittersweet song of changing strains"
+        ]
+    },
+    {
+        "category": "Nature & Environment",
+        "lyrics": [
+            "Footprints fade on frosted ground",
+            "Lost echoes in the swirling sound",
+            "A path unknown, where shadows creep",
+            "Secrets in the silence sleep",
+            "Through swirling mists, a journey starts"
+        ]
+    },
+    {
+        "category": "Memory",
+        "lyrics": [
+            "The heart remembers, a distant flame",
+            "A whispered hope, a forgotten name",
+            "Where broken pieces mend our hearts"
+        ]
+    },
+    {
+        "category": "Transformation",
+        "lyrics": [
+            "Through swirling mists, a journey starts",
+            "Where broken pieces mend our hearts"
+        ]
+    },
+    {
+        "category": "Weather & Emotion",
+        "lyrics": [
+            "Cold rain falls on a weary face",
+            "Each tear blends in this lonely space",
+            "The weight of sorrow finds its hold"
+        ]
+    },
+    {
+        "category": "Sadness & Loss",
+        "lyrics": [
+            "The weight of sorrow finds its hold",
+            "A story left, a tale untold"
+        ]
+    },
+    {
+        "category": "Hope & Resilience",
+        "lyrics": [
+            "But in the darkness, a flicker gleams",
+            "A whispered wish, resilient dreams",
+            "The heart beats on, a steady guide",
+            "Where strength within begins to rise"
+        ]
+    }
+]
