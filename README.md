@@ -10,7 +10,12 @@ LyricGen is a Python script for generating song lyrics using a GPT-2 model.
 
 ## Note
 
-- Make sure you are working in the gpt2 invironment. I have not included the gpt2_env to avoid uploading over 100MB.
+- Make sure you are working in the gpt2 environment. I have not included the gpt2_env to avoid uploading over 100MB.
+
+```bash
+source gpt2_env/bin/activate
+```
+
 - This model is trained on my own texts and lyrics. You are not allowed to use or modify any of the JSON files provided in this repository, as they are only presented as an example for how to create a dataset based on your own text material.
 - This is a very early prototype and will be modofied drastically and dynamically soon.
 
